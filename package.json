@@ -1,7 +1,13 @@
 {
   "name": "react-hooks-utils",
   "version": "0.1.0",
-  "private": true,
+  "description": "Collection of react hooks that commonly used",
+  "keywords": ["react native", "react hook", "react"],
+  "main": "index.js",
+  "repository": "https://github.com/tekminewe/react-hooks-utils.git",
+  "author": "Ewe Tek Min <ewe.tekmin@outlook.com>",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
